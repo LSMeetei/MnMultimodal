@@ -13,8 +13,8 @@ English Text and Images are collected from a local newspaper Imphal Free Press u
 
 A sample dataset is provided for reference.
 
-To acquire a copy of the dataset, please click the link below:
+%To acquire a copy of the dataset, please click the link below:
 
 
-![Dataset Form](https://forms.gle/WUjA7CBkBGtzAwEQ6)
+%![Dataset Form](https://forms.gle/WUjA7CBkBGtzAwEQ6)
 
