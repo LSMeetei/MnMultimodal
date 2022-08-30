@@ -10,7 +10,7 @@ The dataset consists of 3500 samples of 4 tuples:
 - Audio recording of the Manipuri text by the native speakers.
 
 
-A sample dataset of 100 samples is provided.
+A sample dataset is provided for reference.
 
 To acquire a copy of the dataset, please click the link below:
 
