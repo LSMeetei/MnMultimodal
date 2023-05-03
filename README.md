@@ -11,7 +11,7 @@ The dataset consists of tuples:
 
 **Version 1:** English Text and Images are collected from a local newspaper Imphal Free Press using a web-scrapper built in-house.
 
-**Version 2:** Versio 1 + Manipuri Text and Images are collected from a local newspaper Huiyen Lanpao.
+**Version 2:** Version 1 + Manipuri Text and Images are collected from a local newspaper Huiyen Lanpao.
 
 A sample dataset is provided for reference.
 
