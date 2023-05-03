@@ -9,11 +9,11 @@ The dataset consists of tuples:
 - Translation of the English text in Manipuri, Hindi and German.
 - Audio recording of the Manipuri text by the native speakers.
 
-Version 1: English Text and Images are collected from a local newspaper Imphal Free Press using a web-scrapper built in-house.
+**Version 1:** English Text and Images are collected from a local newspaper Imphal Free Press using a web-scrapper built in-house.
 
-Version 2: Versio 1 + Manipuri Text and Images are collected from a local newspaper Huiyen Lanpao.
+**Version 2:** Versio 1 + Manipuri Text and Images are collected from a local newspaper Huiyen Lanpao.
 
 A sample dataset is provided for reference.
 
-
+Please fill up [this form](https://forms.gle/qFkhEuTWF8V75yPn6) for a request to access the data and other supplementary files
 
