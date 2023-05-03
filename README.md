@@ -1,4 +1,4 @@
-# Manipuri Multimodal Dataset for NLP Applications
+# Multimodal Dataset of low-resource languages for Machine Translation and other NLP Applications
 
 This repo house the collection of Manipuri multimodal datatset for Natural Language Processing (NLP) Applications.
 
