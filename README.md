@@ -6,7 +6,7 @@ The dataset consists of tuples:
 
 - Image
 - Caption in English
-- Translation of the English text in Manipuri, Hindi and German.
+- Translation of the English text in Manipuri, Bengali, Hindi and German.
 - Audio recording of the Manipuri text by the native speakers.
 
 **Version 1:** English Text and Images are collected from a local newspaper Imphal Free Press using a web-scrapper built in-house.
