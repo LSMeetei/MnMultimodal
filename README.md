@@ -21,8 +21,11 @@ Manipuri Text is manual translated into English, and then the translated English
 This comprehensive approach allows us to leverage both human expertise and automated translation technologies to facilitate multilingual access to the content.
 
 **Translation approach:** 
+
 English to Manipuri and Manipuri to English: Manual Transaltion + Manual Post-editing
+
 English to Bengali and Hindi: Indic-Trans 
+
 English to German: DeepL
 
 A sample dataset is provided for reference.
