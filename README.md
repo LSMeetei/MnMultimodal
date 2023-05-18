@@ -24,7 +24,7 @@ This comprehensive approach allows us to leverage both human expertise and autom
 
 English to Manipuri and Manipuri to English: Manual Translation + Manual Post-editing
 
-English to Bengali and Hindi: [Indic-Trans](https://indicnlp.ai4bharat.org/indic-trans/)
+English to Bengali and Hindi: [Indic-Trans](https://ai4bharat.iitm.ac.in/indic-trans)
 
 English to German: [DeepL](https://www.deepl.com/en/translator)
 
