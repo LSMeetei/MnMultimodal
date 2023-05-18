@@ -22,11 +22,11 @@ This comprehensive approach allows us to leverage both human expertise and autom
 
 **Translation approach:** 
 
-English to Manipuri and Manipuri to English: Manual Transaltion + Manual Post-editing
+English to Manipuri and Manipuri to English: Manual Translation + Manual Post-editing
 
-English to Bengali and Hindi: Indic-Trans 
+English to Bengali and Hindi: [Indic-Trans](https://indicnlp.ai4bharat.org/indic-trans/)
 
-English to German: DeepL
+English to German: [DeepL](https://www.deepl.com/en/translator)
 
 A sample dataset is provided for reference.
 
